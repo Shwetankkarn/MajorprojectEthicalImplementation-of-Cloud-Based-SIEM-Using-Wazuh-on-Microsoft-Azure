@@ -1,0 +1,1 @@
+# MajorprojectEthicalImplementation-of-Cloud-Based-SIEM-Using-Wazuh-on-Microsoft-Azure
